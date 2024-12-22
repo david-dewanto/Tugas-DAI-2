@@ -1,3 +1,5 @@
 Tucil2.ipynb
 temp.ipynb
 *.csv
+*.json
+.ipynb_checkpoints
